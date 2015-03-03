@@ -5,22 +5,22 @@ Feedback and contributions are always welcome!
 - [Web Analytics](#web-analytics)
     - [Google Analytics](#google-analytics)
     - [Adobe Analytics](#adobe-analytics)
-    - [Gaug.es](#Gaug.es)
-- [Social Media](#Social Media)
-    - [Twitter](#Twitter)
-    - [Facebook](#Facebook)
-    - [LinkedIn](#LinkedIn)
-    - [Instagram](#Instagram)
-- [Advertising](#Advertising)
-    - [AdWords](#RAdwords)
-- [Email](#Email)
-    - [Gmail](#Gmail)
-- [Customer Service](#Customer Service)
-    - [Zendesk](zendeskR)
-- [Misc Dirs, Networks](#Misc Dirs, Networks)
-    - [Wikpedia](#Wikipedia)
-    - [CrunchBase](#CrunchBase)
-    - [Github](#Github)
+    - [Gaug.es](#gaug.es)
+- [Social Media](#social-media)
+    - [Twitter](#twitter)
+    - [Facebook](#facebook)
+    - [LinkedIn](#linkedin)
+    - [Instagram](#instagram)
+- [Advertising](#advertising)
+    - [AdWords](#adwords)
+- [Email](#email)
+    - [Gmail](#gmail)
+- [Customer Service](#customer-service)
+    - [Zendesk](zendeskr)
+- [Misc](#misc)
+    - [Wikpedia](#wikipedia)
+    - [CrunchBase](#crunchBase)
+    - [Github](#github)
 
 ### Web Analytics
 ***
@@ -75,7 +75,7 @@ Feedback and contributions are always welcome!
 #### Zendesk
 * [zendeskR](http://cran.r-project.org/web/packages/zendeskR/index.html) - This package provides an R wrapper for the Zendesk API
 
-### Misc Dirs, Networks
+### Misc
 ***
 
 #### Wikipedia
