@@ -2,9 +2,9 @@
 
 Feedback and contributions are always welcome!
 
-- [Web Analytics](#Digital / Web Analytics)
-    - [Google Analytics](#Google Analytics)
-    - [Adobe Analytics](#Adobe Analytics)
+- [Web Analytics](#Digital-/-Web-Analytics)
+    - [Google Analytics](#Google-Analytics)
+    - [Adobe Analytics](#Adobe-Analytics)
     - [Gaug.es](#Gaug.es)
 - [Social Media](#Social Media)
     - [Twitter](#Twitter)
