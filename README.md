@@ -2,9 +2,9 @@
 
 Feedback and contributions are always welcome!
 
-- [Web Analytics](#Digital-/-Web-Analytics)
-    - [Google Analytics](#Google-Analytics)
-    - [Adobe Analytics](#Adobe-Analytics)
+- [Web Analytics](#web-analytics)
+    - [Google Analytics](#google-analytics)
+    - [Adobe Analytics](#adobe-analytics)
     - [Gaug.es](#Gaug.es)
 - [Social Media](#Social Media)
     - [Twitter](#Twitter)
@@ -22,7 +22,7 @@ Feedback and contributions are always welcome!
     - [CrunchBase](#CrunchBase)
     - [Github](#Github)
 
-### Digital / Web Analytics
+### Web Analytics
 ***
 
 #### Google Analytics
@@ -87,3 +87,5 @@ Feedback and contributions are always welcome!
 
 #### Github
 * [rgithub](https://github.com/cscheid/rgithub) - R bindings for the github API
+
+
