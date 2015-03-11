@@ -7,10 +7,12 @@ Feedback and contributions are always welcome!
     - [Adobe Analytics](#adobe-analytics)
     - [Gaug.es](#gaug.es)
 - [Social Media](#social-media)
+    - [Multiple Networks](#multiple-networks)  
     - [Twitter](#twitter)
     - [Facebook](#facebook)
     - [LinkedIn](#linkedin)
     - [Instagram](#instagram)
+    - [Google Plus](#google-plus)
 - [Advertising](#advertising)
     - [AdWords](#adwords)
 - [Email](#email)
@@ -39,6 +41,9 @@ Feedback and contributions are always welcome!
 ### Social Media
 ***
 
+#### Multiple Networks
+* [SocialMediaMineR](http://cran.r-project.org/web/packages/SocialMediaMineR/index.html) - A Social Media Search and Analytic Tool (Facebook, LinkedIn, Pinterest, StumbleUpon, Twitter, Reddit)
+
 #### Twitter
 * [twitteR](https://github.com/geoffjentry/twitteR) - R based twitter client
 * [streamR](https://github.com/pablobarbera/streamR) - Access to Twitter Streaming API via R
@@ -54,6 +59,9 @@ Feedback and contributions are always welcome!
 
 #### Instagram
 * [instaR](https://github.com/pablobarbera/instaR) - Access to Instagram API via R
+
+#### Google Plus
+* [plusser](https://github.com/tophcito/plusser) - A Google+ API Interface for R
 
 ### Advertising
 ***
