@@ -13,6 +13,7 @@ Feedback and contributions are always welcome!
     - [LinkedIn](#linkedin)
     - [Instagram](#instagram)
     - [Google Plus](#google-plus)
+    - [Tumblr](#tumblr)
 - [Advertising](#advertising)
     - [AdWords](#adwords)
 - [Email](#email)
@@ -62,6 +63,9 @@ Feedback and contributions are always welcome!
 
 #### Google Plus
 * [plusser](https://github.com/tophcito/plusser) - A Google+ API Interface for R
+
+#### Tumblr
+* [tumblR](http://cran.r-project.org/web/packages/tumblR/index.html) - Provides an R-interface to the Tumblr web API
 
 ### Advertising
 ***
