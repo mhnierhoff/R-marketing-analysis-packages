@@ -16,6 +16,7 @@ Feedback and contributions are always welcome!
     - [Tumblr](#tumblr)
 - [Advertising](#advertising)
     - [AdWords](#adwords)
+    - [Facebook Ads](#facebook-ads)
 - [Email](#email)
     - [Gmail](#gmail)
 - [Customer Service](#customer-service)
@@ -73,6 +74,8 @@ Feedback and contributions are always welcome!
 #### AdWords
 * [RAdwords](https://github.com/jburkhardt/RAdwords) - Loading Google Adwords data into R (Needs AdWords MCC!)
 
+#### Facebook Ads
+* [fbRads](https://github.com/cardcorp/fbRads) -Analyze and manage Facebook ads from R to access their Marketing APIs
 
 ### Email
 ***
