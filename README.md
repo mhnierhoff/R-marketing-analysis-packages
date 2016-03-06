@@ -2,10 +2,16 @@
 
 Feedback and contributions are always welcome!
 
-- [Web Analytics](#web-analytics)
+- [Web & Digital Analytics](#web-analytics)
     - [Google Analytics](#google-analytics)
+    - [Mixpanel](#mixpanel)
     - [Adobe Analytics](#adobe-analytics)
+    - [Piwik](#piwik)
+    - [KISSmetrics](#kissmetrics)
     - [Gaug.es](#gaug.es)
+    - [Google WebMaster Tools](#google-webmaster-tools)
+- [CRM](#crm)
+    - [Salesforce](#salesforce)      
 - [Social Media](#social-media)
     - [Multiple Networks](#multiple-networks)  
     - [Twitter](#twitter)
@@ -13,6 +19,7 @@ Feedback and contributions are always welcome!
     - [LinkedIn](#linkedin)
     - [Instagram](#instagram)
     - [Google Plus](#google-plus)
+    - [VKontakte](#vkontakte)
     - [Tumblr](#tumblr)
 - [Advertising](#advertising)
     - [AdWords](#adwords)
@@ -20,25 +27,53 @@ Feedback and contributions are always welcome!
 - [Email](#email)
     - [Gmail](#gmail)
 - [Customer Service](#customer-service)
-    - [Zendesk](zendeskr)
+    - [Zendesk](#zendesk)
+    - [LiveChat](#livechat)
 - [Misc](#misc)
     - [Wikpedia](#wikipedia)
+    - [Google Trends](#google-trends)
     - [CrunchBase](#crunchBase)
     - [Github](#github)
+    - [URL Shortening](#url-shortening)
 
-### Web Analytics
+### Web & Digital Analytics
 ***
 
 #### Google Analytics
 * [RGoogleAnalytics](https://github.com/Tatvic/RGoogleAnalytics) - R Library to easily extract data from the Google Analytics API
+* [RGA](https://github.com/artemklevtsov/RGA) - A Google Analytics API client for R http://cran.r-project.org/package=RGA
 * [ganalytics](https://github.com/jdeboer/ganalytics) - Interact with Google Analytics using R
 * [rga](https://github.com/skardhamar/rga) - This is a package for extracting data from Google Analytics into R.
+* [GAR](https://github.com/andrewgeisler/GAR) - R Package: Google Analytics Refresh and Request
+* [analytics](https://github.com/badrigit/analytics) - Google Analytics & Doubleclick Campaign Manager API client
+
+#### Mixpanel
+* [RMixpanel](https://github.com/7factory/RMixpanel) - Mixpanel API client package for R
+* [mixpanelR](https://github.com/realAkhmed/mixpanelR) - R interface for MixPanel data export API
 
 #### Adobe Analytics
 * [RSiteCatalyst](https://github.com/randyzwitch/RSiteCatalyst) - R package to access Adobe Analytics Reporting API
 
+#### Piwik
+* [piwikr](https://github.com/amarder/piwikr) - If you like Piwik and R, then piwikr is for you.
+
+#### KISSmetrics
+* [kissr](https://github.com/unbounce/kissr) - Access KISSmetrics reports through R
+
 #### Gaug.es
 * [rgauges](https://github.com/ropensci/rgauges) - R wrapper to the gaug.es API for website analytics
+
+#### Google Webmaster Tools
+* [searchConsoleR](https://github.com/MarkEdmondson1234/searchConsoleR) - R interface with Google Search Console API v3, including Search Analytics. 
+
+### CRM
+***
+
+#### Salesforce
+* [RForcecom](https://github.com/hiratake55/RForcecom) - RForcecom provides the connection to Force.com and Salesforce.com from R. 
+* [jedi](https://github.com/nteetor/jedi) - RForcecom provides the connection to Force.com and Salesforce.com from R. 
+* [rsalesforce](https://github.com/mebaran/rsalesforce) - R bindings to query Salesforce database.
+
 
 ### Social Media
 ***
@@ -65,6 +100,9 @@ Feedback and contributions are always welcome!
 #### Google Plus
 * [plusser](https://github.com/tophcito/plusser) - A Google+ API Interface for R
 
+#### VKontakte
+* [vkR](https://github.com/Dementiy/vkR) - vkR is an R package which provides access to the VKontakte (VK) API.
+
 #### Tumblr
 * [tumblR](http://cran.r-project.org/web/packages/tumblR/index.html) - Provides an R-interface to the Tumblr web API
 
@@ -90,6 +128,10 @@ Feedback and contributions are always welcome!
 #### Zendesk
 * [zendeskR](http://cran.r-project.org/web/packages/zendeskR/index.html) - This package provides an R wrapper for the Zendesk API
 
+#### LiveChat
+* [livechatR](https://github.com/lawwu/livechatR) - The package livechatR provides an interface from R to LiveChat's API endpoints
+
+
 ### Misc
 ***
 
@@ -97,10 +139,15 @@ Feedback and contributions are always welcome!
 * [wikipediatrend](https://github.com/petermeissner/wikipediatrend) - A convenience R package for getting Wikipedia article access statistics (and more)
 * [WikipediR](https://github.com/Ironholds/WikipediR) - An R API wrapper for MediaWiki (Wikipedia)
 
+#### Google Trends
+* [gtrends](https://github.com/PMassicotte/gtrendsR) - R functions to perform and display Google Trends queries
+
 #### CrunchBase
 * [rcrunchbase](https://github.com/tarakc02/rcrunchbase) - An R client for the CrunchBase API
 
 #### Github
 * [rgithub](https://github.com/cscheid/rgithub) - R bindings for the github API
 
+#### URL Shortening
+* [urlshorteneR](https://github.com/DataWookie/urlshorteneR) - R package for shortening URLs (bitly & goo.gl support).
 
