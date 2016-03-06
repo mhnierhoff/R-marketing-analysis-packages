@@ -2,7 +2,7 @@
 
 Feedback and contributions are always welcome!
 
-- [Web & Digital Analytics](#web-analytics)
+- [Analytics](#analytics)
     - [Google Analytics](#google-analytics)
     - [Mixpanel](#mixpanel)
     - [Adobe Analytics](#adobe-analytics)
@@ -36,7 +36,7 @@ Feedback and contributions are always welcome!
     - [Github](#github)
     - [URL Shortening](#url-shortening)
 
-### Web & Digital Analytics
+### Analytics
 ***
 
 #### Google Analytics
