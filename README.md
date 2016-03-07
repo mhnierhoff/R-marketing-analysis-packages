@@ -41,6 +41,7 @@ Feedback and contributions are always welcome!
 
 #### Google Analytics
 * [RGoogleAnalytics](https://github.com/Tatvic/RGoogleAnalytics) - R Library to easily extract data from the Google Analytics API
+* [googleAnalyticsR](https://github.com/MarkEdmondson1234/googleAnalyticsR_public) - A new Google Analytics R library using googleAuthR
 * [RGA](https://github.com/artemklevtsov/RGA) - A Google Analytics API client for R http://cran.r-project.org/package=RGA
 * [ganalytics](https://github.com/jdeboer/ganalytics) - Interact with Google Analytics using R
 * [rga](https://github.com/skardhamar/rga) - This is a package for extracting data from Google Analytics into R.
@@ -71,7 +72,7 @@ Feedback and contributions are always welcome!
 
 #### Salesforce
 * [RForcecom](https://github.com/hiratake55/RForcecom) - RForcecom provides the connection to Force.com and Salesforce.com from R. 
-* [jedi](https://github.com/nteetor/jedi) - RForcecom provides the connection to Force.com and Salesforce.com from R. 
+* [jedi](https://github.com/nteetor/jedi) - An R package connecting Salesforce and R through the Force.com REST API
 * [rsalesforce](https://github.com/mebaran/rsalesforce) - R bindings to query Salesforce database.
 
 
