@@ -18,6 +18,7 @@ Feedback and contributions are always welcome!
     - [Facebook](#facebook)
     - [LinkedIn](#linkedin)
     - [Instagram](#instagram)
+    - [YouTube](#youtube)
     - [Google Plus](#google-plus)
     - [VKontakte](#vkontakte)
     - [Tumblr](#tumblr)
@@ -97,6 +98,11 @@ Feedback and contributions are always welcome!
 
 #### Instagram
 * [instaR](https://github.com/pablobarbera/instaR) - Access to Instagram API via R
+
+#### YouTube
+* [tuber](https://github.com/soodoku/tuber) - Access YouTube API via R
+* [youtubeAnalyticsR](https://github.com/MarkEdmondson1234/youtubeAnalyticsR) - YouTube Analytics API into R
+* [youTubeDataR](https://github.com/JohnCoene/youTubeDataR) - Integrates R and the YouTube Data API
 
 #### Google Plus
 * [plusser](https://github.com/tophcito/plusser) - A Google+ API Interface for R
