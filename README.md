@@ -10,6 +10,7 @@ Feedback and contributions are always welcome!
     - [KISSmetrics](#kissmetrics)
     - [Gaug.es](#gaug.es)
     - [Google WebMaster Tools](#google-webmaster-tools)
+    - [googleTagManageR](#googleTagManageR)
 - [CRM](#crm)
     - [Salesforce](#salesforce)      
 - [Social Media](#social-media)
@@ -67,6 +68,9 @@ Feedback and contributions are always welcome!
 
 #### Google Webmaster Tools
 * [searchConsoleR](https://github.com/MarkEdmondson1234/searchConsoleR) - R interface with Google Search Console API v3, including Search Analytics. 
+
+#### Google Tag Manager
+* [googleTagManageR](https://github.com/IronistM/googleTagManageR) - n R package to interact with the Google Tag Manager API.
 
 ### CRM
 ***
