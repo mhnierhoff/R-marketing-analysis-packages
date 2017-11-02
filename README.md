@@ -162,3 +162,6 @@ Feedback and contributions are always welcome!
 #### URL Shortening
 * [urlshorteneR](https://github.com/DataWookie/urlshorteneR) - R package for shortening URLs (bitly & goo.gl support).
 
+#### iTunes Reviews
+* [itunesr](https://github.com/amrrs/itunesr) - R package to extract Apple iTunes App Store Reviews and Ratings
+
