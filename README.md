@@ -51,7 +51,7 @@ Feedback and contributions are always welcome!
 * [analytics](https://github.com/badrigit/analytics) - Google Analytics & Doubleclick Campaign Manager API client
 
 #### Mixpanel
-* [RMixpanel](https://github.com/7factory/RMixpanel) - Mixpanel API client package for R
+* [RMixpanel](https://github.com/ploner/RMixpanel) - Mixpanel API client package for R
 * [mixpanelR](https://github.com/realAkhmed/mixpanelR) - R interface for MixPanel data export API
 
 #### Adobe Analytics
